@@ -1,0 +1,11 @@
+push >aa
+push >aa
+pop >aa
+pop >aa
+
+push >aa
+pushax >aa >aa
+pushax >aa >aa
+popax >aa >aa
+popax >aa >aa
+pop >aa

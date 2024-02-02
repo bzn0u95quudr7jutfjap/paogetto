@@ -1,0 +1,16 @@
+push >V|a!a
+evalall >V|a!a
+buildtree >V|a!a
+pop >V|a!a
+
+push >V&a!a
+evalall >V&a!a
+buildtree >V&a!a
+pop >V&a!a
+
+push >V>a!b
+evalall >V>a!b
+buildtree >V>a!b
+pushax >V>a!b >b!a
+buildtree >V>a!b
+pop >V>a!b
